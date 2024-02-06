@@ -1,8 +1,8 @@
-#Age Calculator Web Application
+# Age Calculator Web Application
 
 This web application helps you calculate your age based on your date of birth, offering a user-friendly and accurate experience. It's written in HTML, CSS, and JavaScript, and can be easily run locally or deployed online.
 
-#Features:
+# Features:
 
 * Clear and intuitive interface: Simple date picker for entering your date of birth.
 
